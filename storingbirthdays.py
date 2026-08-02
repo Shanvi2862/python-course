@@ -1,0 +1,7 @@
+name=input("enter your name")
+print(name)
+personalgoal=input("enter youyr personal goal")
+print(personalgoal)
+targetmonth=input("enter your target month")
+print(targetmonth)
+print("\n hello",name,",your personal goal is",personalgoal,"and your target month is",targetmonth)
