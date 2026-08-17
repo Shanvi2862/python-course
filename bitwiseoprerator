@@ -1,0 +1,7 @@
+a=5 #binary5:0101
+b=3 #binary3:0011
+print(a&b)
+print(a|b)
+print(~b)
+print(a<<b)
+print(a>>b)
